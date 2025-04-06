@@ -7,7 +7,7 @@ A student in Programming by day ☀️ and Front-end Developer by night 🌛
 
 ---
 
-- 🌱 I’m currently learning **Angular**
+- 🌱 I’m currently learning **Angular** and **React**
 - 🧑‍💻 I work as **Front-end Developer** (Angular framework spec.)
 - 💬 Ask me about **anything**
 - ⚡ Fun fact: I really like **hardware**, **video games**, **movies** and **anime**
