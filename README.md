@@ -1,14 +1,14 @@
 ## Hello there 👋
 
 I am **Jakub Chodziński**!<br>
-A student in Programming by day ☀️ and Front-end Developer by night 🌛
+A student in Programming by day ☀️ and Full-stack Developer by night 🌛
 
 [![LinkedIn](https://img.shields.io/badge/Linkedin-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jakub-chodzinski/)
 
 ---
 
 - 🌱 I’m currently learning **Angular** and **React**
-- 🧑‍💻 I work as **Front-end Developer** (Angular framework spec.)
+- 🧑‍💻 I work as **Full-stack Developer** (PHP, Laravel, Symfony, Angular, React Native)
 - 💬 Ask me about **anything**
 - ⚡ Fun fact: I really like **hardware**, **video games**, **movies** and **anime**
 
